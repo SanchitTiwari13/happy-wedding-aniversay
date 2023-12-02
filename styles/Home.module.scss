@@ -1,0 +1,17 @@
+.bodyDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 50%;
+    font-size: 12pt;
+    h1{
+        margin: 5vw;
+        width: fit-content;
+    }
+    img {
+        width: 90vw;
+        height: 80vh;
+    }
+}
